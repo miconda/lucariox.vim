@@ -36,6 +36,8 @@ hi Search       ctermfg=white ctermbg=darkblue cterm=underline guifg=#90fff0 gui
 hi Directory    ctermfg=177 ctermbg=NONE cterm=NONE guifg=#ca94ff guibg=NONE gui=NONE
 hi Folded       ctermfg=68 ctermbg=23 cterm=NONE guifg=#5c98cd guibg=#2b3e50 gui=NONE
 
+hi Terminal     ctermfg=lightgrey ctermbg=black cterm=NONE guifg=lightgrey guibg=black gui=NONE
+
 " Colors for tabs in cterm
 hi TabLineFill  ctermfg=12
 hi TabLine      ctermfg=17 ctermbg=11 cterm=NONE
