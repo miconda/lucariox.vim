@@ -1,12 +1,15 @@
 # lucariox.vim #
 
-Customized `vim` and `neovim` color scheme inspired from `Lucario` with `Darkblue` elements.
+Customized `vim` and `neovim` color scheme inspired from `Lucario` mixed with
+`Darkblue` elements and some extra bits.
 
 Original `Lucario` color scheme:
 
   * https://github.com/raphamorim/lucario
 
 `Darkblue` color scheme is part of default `vim` distribution.
+
+In addition, it defines the colors for terminal, variable types, ...
 
 ## Installation ##
 
