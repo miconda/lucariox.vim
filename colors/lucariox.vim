@@ -39,9 +39,9 @@ hi Folded       ctermfg=68 ctermbg=23 cterm=NONE guifg=#5c98cd guibg=#2b3e50 gui
 hi Terminal     ctermfg=lightgrey ctermbg=black cterm=NONE guifg=lightgrey guibg=black gui=NONE
 
 " Colors for tabs in cterm
-hi TabLineFill  ctermfg=12
-hi TabLine      ctermfg=17 ctermbg=11 cterm=NONE
-hi TabLineSel   ctermfg=8 ctermbg=14 cterm=NONE
+hi TabLineFill   ctermfg=60
+hi TabLine       ctermfg=254 ctermbg=60 cterm=NONE
+hi TabLineSel    ctermfg=254 ctermbg=61 cterm=NONE
 
 hi Normal       ctermfg=248 ctermbg=NONE cterm=NONE guifg=#c0c0c0 guibg=#2b3e50 gui=NONE
 hi Boolean      ctermfg=177 ctermbg=NONE cterm=NONE guifg=#ca94ff guibg=NONE gui=NONE
