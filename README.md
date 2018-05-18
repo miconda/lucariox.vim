@@ -9,7 +9,7 @@ Original `Lucario` color scheme:
 
 `Darkblue` color scheme is part of default `vim` distribution.
 
-In addition, it defines the colors for terminal, variable types, ...
+In addition, it defines the colors for embedded terminal, variable types, ...
 
 ## Installation ##
 
